@@ -1,0 +1,21 @@
+/*
+Theme Name: Delta PTA
+Description: The custom theme Delta PTA using the parent theme Twenty Seventeen.
+Author: Kim Brown Creative
+Author URI: kimbrowninaustin.com
+Template: twentyseventeen
+Version: 1
+*/
+
+@import url (...twentyseventeen/style.css);
+
+.body.colors-custom {
+ color: red
+ ;
+}
+
+body {
+
+	font-family: Open Sans, Arial, sans-serif;
+
+}
